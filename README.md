@@ -7,6 +7,7 @@ Goal: Find the largest number in this [large pdf document](https://www.saffm.hq.
 ## How to Run Software
 1. Download and install Python.
 2. Install the PyPDF2 library: `pip install PyPDF2`
-3. Run the program:
-    - `python pdf_extract_largest_num.py` or,
-    - Open a code editor with jypter notebook and press "Run all" on the `pdf_extract_largest_num.ipynb` file.
+3. Ensure that the pdf file is in the same directory as the python script.
+4. Run the program using either method:
+    - Using a terminal, change the working directory into the same directory as the python script and the pdf file, then use `python pdf_extract_largest_num.py`, or
+    - Open a code editor that can run jypter notebook files and press "Run all" on the `pdf_extract_largest_num.ipynb` file.
