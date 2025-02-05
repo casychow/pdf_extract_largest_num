@@ -1,4 +1,4 @@
-# pdf_extract_largest_num
+# PDF Scraper Extract Largest Num
 
 Goal: Find the largest number in this [large pdf document](https://www.saffm.hq.af.mil/Portals/84/documents/FY25/FY25%20Air%20Force%20Working%20Capital%20Fund.pdf?ver=sHG_i4Lg0IGZBCHxgPY01g%3d%3d). The unit is not important (could be dollars, years, pounds, etc), output the greatest numerical value in the document.
 
